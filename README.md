@@ -1,7 +1,7 @@
 # Text-Generation-Data-Science-
 Proyecto del 3er parcial
 
-Autor: Diego Jesús Gómez Chacón \n
+Autor: Diego Jesús Gómez Chacón 
 Profesor: Jesús Roberto López Santillán 
 Materia: Data Science 
 Grupo: 8CC2 
